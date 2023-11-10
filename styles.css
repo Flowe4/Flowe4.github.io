@@ -1,0 +1,87 @@
+body{
+    background-color: black;
+    background-image: url(/images/2955457.jpg);
+    background-attachment: fixed;
+    background-size: cover;
+    background-position: center center;
+    background-repeat: no-repeat;
+    align-items: center;
+    min-height: 100vh;
+    justify-content: center;
+
+}
+
+h1{
+    color: rgb(255, 255, 255);
+    font-style: italic;
+    border-style: ridge;
+    border-color: grey;
+}
+
+
+p{
+    color: green;
+}
+
+
+a:link{
+    color: aqua;
+}
+
+a:visited{
+    color: azure;
+}
+
+a:hover{
+    color: aqua;
+}
+
+button {
+    background-color: white;
+    border: none;
+    color: white;
+    padding: 10px 10px;
+    width: 80px;
+    text-align: center;
+    text-decoration: none;
+    font-size: 16px;
+}
+
+button:hover {
+    background-color: azure; /* Azure */
+    border: crimson;
+    color: black;
+    text-align: center;
+    text-decoration: none;
+    font-size: 16px;
+}
+
+div{
+    font-size: large;
+    text-align: center;
+    margin-top: 12%;
+    justify-content: center;
+    background: transparent;
+
+}
+
+#Text{
+    width: 15%;
+    height: 30px;
+    font-size: large;
+}
+
+Button{
+    color: black;
+    background-color: white;
+    text-align: center;
+}
+
+#Label{
+    font-size: larger;
+    text-align: center;
+    color: azure;
+    padding: 20%;
+    border-color: brown;
+}
+
